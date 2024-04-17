@@ -1,6 +1,6 @@
 import random
 
-sum = 0
+sum = 0 #횟수를 세는 변수
 for i in range(0, 1000):
    a = random.randint(1,6)  #첫번째 주사위
    b = random.randint(1,6)  #두번째 주사위
