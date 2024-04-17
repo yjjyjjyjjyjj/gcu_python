@@ -1,0 +1,15 @@
+import math;
+print(math.sin(math.radians(30)))
+print(math.sqrt(9.0))
+print(math.log(1.0))
+print('나의 ' + '고양이')
+print("hello" * 10)
+print("결과값은", 10, "입니다")
+print("3 * 1=",3*1)
+print("3 * 2=",3*2)
+print("3 * 3=",3*3)
+
+print("2 + 3=", 2+3)
+print("2 - 3=", 2-3)
+print("2 * 3=", 2*3)
+print("2 / 3=", 2/3)

@@ -1,0 +1,1 @@
+x=float(input("x의 값을 입력하시오 :"))sum = 0if x<=0:    sum = x*x - 9*x + 2elif x>0:    sum = 7*x + 2    print(f"f(x)의 값은 {sum}")
