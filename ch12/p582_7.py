@@ -53,7 +53,5 @@ playlist = Playlist("애창곡")
 for song in album.tracks:
     playlist.add_song(song)
 
-print(playlist.name)
-
 for song in playlist.songs:
     print(song.title)
